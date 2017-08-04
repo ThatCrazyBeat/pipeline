@@ -76,4 +76,4 @@ deploy:
        org: $ORG
        space: $SPACE
        appname: wercker-step-hello
-       docker_image: thatcrazybeat/pipeline-hello
+       docker_image: thatcrazybeat/pipeline
